@@ -1,4 +1,5 @@
 # Tech Job Descriptions Library
+Updated as of 3/29/2026
 
 Created to group similar Tech job descriptions, that has distinctive job titles into generalized, well known job titles, revealing patterns in minimum requirements so you'll knwo to learn when applying for jobs.
 
@@ -23,6 +24,8 @@ Created to group similar Tech job descriptions, that has distinctive job titles 
 - Web, Mobile Development & Software Engineering
     - Quality Assurance
     - Software Engineer
+- Information Technology
+    - Product Manager
 
 ## Companies Added (so far)
 - Apple
