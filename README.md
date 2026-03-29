@@ -29,6 +29,7 @@ Created to group similar Tech job descriptions, that has distinctive job titles 
 
 ## Companies Added (so far)
 - Apple
+- Google
 - IBM
 - Red Hat
 - Netflix
